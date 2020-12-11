@@ -44,5 +44,5 @@ void main() {
   //therefore , there initial value is by default set to "null"
 
   int listCount;
-  print(listCount);
+  print(listCount); //u will get "null" as output.
 }
